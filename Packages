@@ -27,8 +27,10 @@ Description: AMG 一键新机，改串清理，全息备份，模拟定位，脚
 Name: AMG_8.1「无根-新版」
 Author: amg
 Homepage: http://www.superdev.net
-SileoDepiction: https://apt.ssoes.com/sileo/438
-Depiction: https://apt.ssoes.com/view/438
+SileoDepiction: AMG 一键新机，改串清理，全息备份，模拟定位，脚本调用，智能飞行，防越狱检测，支持iOS8-iOS16全系越狱可用。支持有根和无根，支持隐藏越狱RootHide，支持所有可越狱机型，支持checkra1n, unc0ver, palera1n, dopamine(多巴胺)等各种越狱方式。
+Name: AMG_8.1「无根-新版」
+Depiction: AMG 一键新机，改串清理，全息备份，模拟定位，脚本调用，智能飞行，防越狱检测，支持iOS8-iOS16全系越狱可用。支持有根和无根，支持隐藏越狱RootHide，支持所有可越狱机型，支持checkra1n, unc0ver, palera1n, dopamine(多巴胺)等各种越狱方式。
+Name: AMG_8.1「无根-新版」
 Icon: file:///Applications/AMG.app/AppIcon60x60@2x.png
 MD5sum: 4019003120df157aec270d4996b7e2dc
 SHA1: 15b4cad179f4134679191b5cbdc4e761881fd54f
