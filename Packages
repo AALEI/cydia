@@ -30,3 +30,19 @@ Author: amg
 Icon: file:///Applications/AMG.app/AppIcon60x60@2x.png
 Name: AMG_8.1「推荐」
 
+Package: com.ssoes.amg81.roothide
+Version: 8.1
+Architecture: iphoneos-arm64e
+Maintainer: amg
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: debs/com.ssoes.amg81.roothide_8.1_iphoneos-arm64e.deb
+Size: 5850462
+MD5sum: 387f32ddadd35f7bfcd5922c10c0dc79
+SHA1: 4be6398a454159924b13b88a5e4e215bd54a78a6
+SHA256: 55d3f1cd0da25b2ca40de91d36b7539b8a1df4923fe800d5e7e30157a022d366
+Section: AMG奔驰
+Priority: optional
+Author: amg
+Icon: file:///Applications/AMG.app/AppIcon60x60@2x.png
+Name: AMG_8.1「RootHide」
+
