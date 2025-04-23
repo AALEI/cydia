@@ -1,0 +1,16 @@
+Package: cloud.hacker.shell
+Version: 3.0.2
+Architecture: iphoneos-arm
+Maintainer: hacker
+Depends: mobilesubstrate,preferenceloader,adv-cmds,findutils,readline,com.linusyang.localeutf8,ldid,gawk,ncurses,libkrw,cy+cpu.arm64,firmware (>= 12.0),findutils
+Conflicts: apt.zscool.net.1186,als1203,apt.zscool.net.sup,apt.zscool.net.xj903,apt.zscool.net.xj868,apt.zscool.net.x856,apt.zscool.net.zwzapp.cn,apt.zscool.net.mask,apt.zscool.net.ironman
+Filename: ./debs/cloud.hacker.shell_3.0.2_iphoneos-arm.deb
+Size: 49094456
+MD5sum: f35953b04953f8c53a759e14085191fa
+SHA1: 19d13067bc1eedd90feed5eef52a2fd1eb5753cc
+SHA256: 2ee9d7ab0b088e4e8afdab6c7e14ef85abfd0ba93836176b015ff855b93849d2
+Section: 小火箭
+Author: hacker
+Icon: file:///Applications/ShellCloud.app/AppIcon29x29@2x.png
+Name: 一只小火箭_GB
+
