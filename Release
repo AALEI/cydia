@@ -1,8 +1,8 @@
-Origin: xhj888888's repo
-Label: xhj888888
+Origin: xhj888888 repo
+Label: xhj888888 repo
 Suite: stable
-Version: 1.1
+Version: 1.0
 Codename: xhj888888
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: xhj888888
+Description: xhj888888's Repository
