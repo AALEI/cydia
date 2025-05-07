@@ -1,10 +1,28 @@
+Package: byg.iosios.net.icleanerprocrack
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/byg.iosios.net.icleanerprocrack_1.2_iphoneos-arm64.deb
+Size: 5252
+MD5sum: b260b3d8827637fe7002f38a387f0dca
+SHA1: f79a4a676c5a6af7732dc89ffe305915ac443432
+SHA256: 1ace9d5d78996bf9861c15b025ed309ec6d05feffa9efc9c038f2a2dcf5e5e5d
+Section: 插件依赖
+Description: iCleaner Pro Crack破解插件，网友分享，应该是有效的，建议有能力的还是支持作者，破解去广告，会导致清理软件一直是英文，介意的请卸载，和本源无关，不要乱造谣
+Author: Anna
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: iCleaner Pro 破解插件-Rootless
+Sponsor: 搬运工
+
 Package: cloud.hacker.shell
 Version: 3.0.2
 Architecture: iphoneos-arm
 Maintainer: hacker
 Depends: mobilesubstrate,preferenceloader,adv-cmds,findutils,readline,com.linusyang.localeutf8,ldid,gawk,ncurses,libkrw,cy+cpu.arm64,firmware (>= 12.0),findutils
 Conflicts: apt.zscool.net.1186,als1203,apt.zscool.net.sup,apt.zscool.net.xj903,apt.zscool.net.xj868,apt.zscool.net.x856,apt.zscool.net.zwzapp.cn,apt.zscool.net.mask,apt.zscool.net.ironman
-Filename: debs/cloud.hacker.shell_3.0.2_iphoneos-arm.deb
+Filename: ./debs/cloud.hacker.shell_3.0.2_iphoneos-arm.deb
 Size: 49094456
 MD5sum: f35953b04953f8c53a759e14085191fa
 SHA1: 19d13067bc1eedd90feed5eef52a2fd1eb5753cc
@@ -19,7 +37,7 @@ Version: 8.1
 Architecture: iphoneos-arm
 Maintainer: amg
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: debs/com.ssoes.amg81_8.1_iphoneos-arm.deb
+Filename: ./debs/com.ssoes.amg81_8.1_iphoneos-arm.deb
 Size: 10923094
 MD5sum: aa3200cbf3d3a3665d40f6c116a8371b
 SHA1: b405153f34c7bdf3ede1f32fe893cd191beedd52
@@ -35,7 +53,7 @@ Version: 8.1
 Architecture: iphoneos-arm64e
 Maintainer: amg
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: debs/com.ssoes.amg81.roothide_8.1_iphoneos-arm64e.deb
+Filename: ./debs/com.ssoes.amg81.roothide_8.1_iphoneos-arm64e.deb
 Size: 5850462
 MD5sum: 387f32ddadd35f7bfcd5922c10c0dc79
 SHA1: 4be6398a454159924b13b88a5e4e215bd54a78a6
@@ -45,4 +63,36 @@ Priority: optional
 Author: amg
 Icon: file:///Applications/AMG.app/AppIcon60x60@2x.png
 Name: AMG_8.1「RootHide」
+
+Package: com.ssoes.amg82.roothide
+Version: 8.2
+Architecture: iphoneos-arm64e
+Maintainer: amg
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/com.ssoes.amg82.roothide_8.2_iphoneos-arm64e.deb
+Size: 5859790
+MD5sum: 50d976adbd209d2df287c08fd3c9ef3b
+SHA1: f43980a09cb5a8c9e1694ece76f6b13b5bc91a66
+SHA256: 98155b06846074d3425045470a36c549ad5ffce2677692f1dc57ed62d32bedd2
+Section: AMG奔驰
+Priority: optional
+Author: amg
+Icon: file:///Applications/AMG.app/AppIcon60x60@2x.png
+Name: AMG_8.2「RootHide」
+
+Package: com.ssoes.amg82.rootless
+Version: 8.2
+Architecture: iphoneos-arm64
+Maintainer: amg
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/com.ssoes.amg82.rootless_8.2_iphoneos-arm64.deb
+Size: 5898304
+MD5sum: cc2fc78e10042c6377ada79803b260c1
+SHA1: a84e48ff979d454018c98bd7e2671626f2eade17
+SHA256: 8c2f8dc355987a7e6c2de975b5d7a607ab9534a4442a88ef81ad2bdce3ef051b
+Section: AMG奔驰
+Priority: optional
+Author: amg
+Icon: file:///Applications/AMG.app/AppIcon60x60@2x.png
+Name: AMG_8.2「无根-新版」
 
